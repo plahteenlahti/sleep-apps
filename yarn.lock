@@ -6336,10 +6336,10 @@ gatsby-recipes@^0.1.44:
     ws "^7.3.0"
     xstate "^4.10.0"
 
-gatsby-source-app-store@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/gatsby-source-app-store/-/gatsby-source-app-store-1.0.3.tgz#45f9a6cc07a8c5b63e59091ffc62fbe59e1d164a"
-  integrity sha512-nKts5dg8lqBHT77tfKpw8L4BOeA4Fg67GNPrFJ+Vc/9NqBwkRyDNiFYHQBUV0/hlV/KgM6Rx3ZGEbmGmQSq7Yg==
+gatsby-source-app-store@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/gatsby-source-app-store/-/gatsby-source-app-store-1.0.4.tgz#cefb5526e536ed7e5c1df50e7d2b3144b19fe9a3"
+  integrity sha512-A70enDd7fA/Pqd+8ZZFrOJRGG3kKrxM+ilj1fRm9s8WBfAVAzDUoNZ6Kfvf3InOEhPKxOUS7GXD2UZO9TnSPgg==
   dependencies:
     "@babel/runtime" "^7.0.0"
     app-store-scraper "^0.16.3"

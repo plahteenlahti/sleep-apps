@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import styled from "styled-components"
 
-type Review = {
+export type Review = {
   id: string
   text: string
   score: number
@@ -15,7 +15,7 @@ type Review = {
   userUrl: string
 }
 
-type App = {
+export type App = {
   appId: string
   contentRating: string
   currency: string
